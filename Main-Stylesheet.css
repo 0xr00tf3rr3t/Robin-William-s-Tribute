@@ -1,0 +1,41 @@
+body{
+  font-family: 'Lora', serif;
+padding:0px !important;
+
+}
+.header{
+
+    background-color: #8b9ab2;
+      padding:15px;
+}
+ .header-title {
+     font-size:60px;
+    text-align: center;
+ padding-bottom: 4px;
+}
+img.header-picture{
+    display: block;
+    margin:0px auto;
+
+}
+.quote{
+    font-size:25px;
+    font-style:italic;
+    margin-top:30px;
+    background-color:rgba(255,255,255,0.2);
+
+}
+.quote-footer{
+    font-size:20px;
+    font-style:bold;
+}
+.tribute-title{
+    padding:10px 15px;
+    margin:0px;
+    background-color:#434062;
+    color:white;
+}
+.education-body{
+    margin-top:0px auto;
+    background-color:#c7d1e0;
+}
